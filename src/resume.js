@@ -3,17 +3,17 @@ import React from 'react'
 // JSX is supported in most places in this template in place of strings
 const resume = {
   header: {
-    name: '{first and last name}',
+    name: 'Adam Robertson',
     links: [
       {
-        href: 'mailto:{email address}',
+        href: 'mailto:adam.robertson13@gmail.com',
         icon: 'far fa-envelope',
-        text: '{email address}',
+        text: 'adam.robertson13@gmail.com',
       },
       {
         href: 'https://github.com/{github username}',
         icon: 'fab fa-github',
-        text: 'github.com/{github username}',
+        text: 'github.com/adamscott95',
       },
       {
         href: 'https://linkedin.com/in/{linkedIn url}',
